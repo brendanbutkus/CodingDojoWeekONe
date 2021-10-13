@@ -1,0 +1,36 @@
+* {
+    font-family: 'Antonio', sans-serif;
+    color:ghostwhite;
+}
+
+body {
+    background-color: black;
+    padding: 20px;
+}
+
+#navleft {
+    display: flex;
+    height: 600px;
+    width: 500px;
+    background-color: pink;
+    align-items: center;
+
+}
+
+#navleft ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+}
+
+#navright {
+    height: 60px;
+    width: 300px;
+    background-color: coral;
+    display: flex;
+}
+
+#icon {
+    width: 40px;
+    border-radius: 50%;
+}
