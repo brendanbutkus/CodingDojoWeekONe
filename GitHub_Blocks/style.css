@@ -1,0 +1,42 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img.octocat {
+    height: 200px;
+}
+
+
+.container{
+    background-color: rgb(40, 136, 136);
+    padding: 10px;
+    width: 800px;
+    margin: 0 auto;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+.blue{
+    background-color: rgb(105, 105, 170);
+    margin: 10px;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+#pink{
+    background-color: rgb(179, 123, 134);
+    margin: 10px;
+    justify-content: space-evenly;
+    display: flex;
+}
+
+#white{
+    background-color: white;
+    margin: 10px;
+    justify-content: space-evenly;
+    display: flex;
+}
+
